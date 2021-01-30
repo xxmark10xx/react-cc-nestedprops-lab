@@ -18,7 +18,7 @@ Please complete this lab in a React [CodeSandbox](https://codesandbox.io) named 
 
 **The layout and styling of the markup is left up to your discretion.**
 
-1. Add a `students` state value to the `<App>` component and initialize it with the following array of "student" data:
+1. Add a `students` value to the `<App>` component and initialize it with the following array of "student" data:
 
 ```js
 [
